@@ -22,11 +22,17 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
+<p align="center"> 
  
+  <a href="https://www.codewars.com/users/vitilevi" target="_blank">
+    <img width="165" src="https://www.codewars.com/users/fumagallilaura/badges/micro" />
+  </a>
+  
+</p> 
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fumagallilaura)](https://github.com/fumagallilaura) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fumagallidv/)](https://www.linkedin.com/in/fumagallidv/)
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fumagallilaura)](https://github.com/fumagallilaura) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fumagallidv/)](https://www.linkedin.com/in/fumagallidv/)
 
 
 
