@@ -24,7 +24,7 @@
 
 <p align="center"> 
  
-  <a href="https://www.codewars.com/users/vitilevi" target="_blank">
+  <a href="https://www.codewars.com/users/fumagallilaura" target="_blank">
     <img width="165" src="https://www.codewars.com/users/fumagallilaura/badges/micro" />
   </a>
   
