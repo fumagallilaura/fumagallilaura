@@ -32,7 +32,7 @@
 
 ## About me
 
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fumagallilaura)](https://github.com/fumagallilaura) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fumagallidv/)](https://www.linkedin.com/in/fumagallidv/)
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fumagallilaura)](https://github.com/fumagallilaura) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fumagallidv/)](https://www.linkedin.com/in/fumagallidv/) [Discord](https://discord.com/users/413703949682737152)
 
 
 
