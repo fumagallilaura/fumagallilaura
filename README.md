@@ -1,6 +1,6 @@
 <h2 align="center">
  
- Welcome!
+ <Welcome! />
  
  </h2>
 
