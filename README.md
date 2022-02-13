@@ -59,6 +59,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <!-- VSCODE -->
  <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
+ <!-- Vite -->
+ <a href="https://vitejs.dev/guide/#scaffolding-your-first-vite-project" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
  <!-- GIT -->
  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true" alt="git" width="50" height="40"/> </a>
  <!-- GITHUB -->
