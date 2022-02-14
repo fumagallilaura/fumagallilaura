@@ -52,7 +52,7 @@
  <!-- SASS -->
  <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="git" width="40" height="40"/> </a>
  <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
+<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  <!-- Vite -->
  <a href="https://vitejs.dev/guide/#scaffolding-your-first-vite-project" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
  <!--REACT -->
