@@ -66,7 +66,7 @@
  <!-- GITHUB -->
  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
 </p>
-
+<br>
 <!-- Details Section-->
 <details align="center">
   <summary> <samp>&#9776; Read More</samp></summary>
@@ -121,7 +121,7 @@
         </a>
  
 </details>
-
+<br>
 <!-- Footer -->
 <samp>
     <p align="center">
