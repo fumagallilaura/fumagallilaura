@@ -12,7 +12,7 @@
  </samp>
 </h2>
 
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif />
+<!-- <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif /> -->
 
 <h3 align="center">
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 /> 
@@ -26,6 +26,8 @@
 <p align="center">
  <samp>
     「 From São Paulo, Brazil 」
+   <br>
+    「 Front End Developer 」
    <br>
     「 Student, Back End & Computer Science @<b> Trybe</b> 」
    <br>
@@ -130,5 +132,3 @@
         "Happy Coding👨‍💻!"
     </p>
 </samp>
-
-<img src=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg>
