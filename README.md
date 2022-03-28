@@ -65,10 +65,14 @@
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  <!-- GIT -->
  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true" alt="git" width="50" height="40"/> </a>
+ <!-- Firebase -->
+ <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://cdn.qwiklabs.com/I5mmALcbNS0M2VMxKyZipZErO5KP2%2BOW1ZRO4e1zc3k%3D" alt="sql" width="40" height="40"/> </a>
  <!-- GITHUB -->
  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
  <!-- Docker -->
  <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+ <!-- SQL -->
+ <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="sql" width="40" height="40"/> </a>
 </p>
 <br>
 <!-- Details Section-->
