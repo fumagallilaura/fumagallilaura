@@ -27,9 +27,7 @@
  <samp>
     「 From São Paulo, Brazil 」
    <br>
-    「 Back End Developer 」
-   <br>
-    「 Student at @<b> Trybe</b> 」
+    「 Back End Developer, with full stack knowledge 」
    <br>
    <br>
  </samp>
