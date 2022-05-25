@@ -92,7 +92,7 @@
 
 <!-- Details Section-->
 <details align="center" font-size=200>
- <summary><h2 align="center"><samp>&#9776; Read More</samp></h2></summary>
+ <summary align="center"><h2 align="center"><samp align="center">&#9776; Read More</samp></h2></summary>
   <!-- Activity Widget -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fumagallilaura&show_icons=true&theme=radical" alt="Laura Fumagalli's Github status"/>
