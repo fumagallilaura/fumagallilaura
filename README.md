@@ -40,7 +40,7 @@
  <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" alt="html5" width="40" height="40"/> </a>
  <!-- JWT - JSON Web Token -->
- <a href="https://jwt.io/" target="_blank"> <img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" alt="sql" width="40" height="40"/> </a>
+ <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
  <!-- CSS  -->
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a>
  <!-- Jest -->
