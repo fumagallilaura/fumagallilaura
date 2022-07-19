@@ -27,7 +27,7 @@
  <samp>
     「 From São Paulo, Brazil 」
    <br>
-    「 Back End Developer, with full stack knowledge 」
+    「 Back End Developer, with FullStack knowledge 」
    <br>
    <br>
  </samp>
