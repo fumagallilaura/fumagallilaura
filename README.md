@@ -109,7 +109,7 @@
    <br>
    <br>
    <!-- A Curiosity About Me -->
-     <samp> ⚡ Fun fact: I am a systems developer AND dentist! </samp><a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a>
+     <samp> ⚡ Fun fact: I am a systems developer AND dentist! </samp><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a>
   </p> 
  <br>
         <!-- Social Links -->
