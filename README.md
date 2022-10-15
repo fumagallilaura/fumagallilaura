@@ -82,11 +82,25 @@
  <!-- SQL -->
  <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="sql" width="40" height="40"/> </a>
  <!-- Postman -->
- <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="sql" width="40" height="40"/> </a>
+ <a href="https://www.postman.com/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="Postman" width="40" height="40"/> </a>
  </p>
  
  <p align="center">
-</p>
+  <!-- C# -->
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://haxe.org/img/platforms/csharp.png" alt="C-Sharp" width="40" height="40"/> </a>
+ <!-- MongoDB -->
+ <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png" alt="MongoDB" width="40" height="40"/> </a>
+ <!-- Python -->
+ <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+ <!-- .NET -->
+ <a href="https://learn.microsoft.com/pt-br/teamblog/introducing-net-core-docs" target="_blank"> <img src="https://www.nantes-amenagement.fr/wp-content/uploads/2018/05/LOGO-DOTNET-v2018.png" alt="dotnet" width="40" height="40"/> </a>
+ <!-- Azure DevOps -->
+ <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank"> <img src="https://bayccs.com/wp-content/uploads/2020/04/azure-1-1024x817.png" alt="AzureDevps" width="40" height="40"/> </a>
+ </p>
+ 
+ <p align="center">
+ 
+ </p>
 
 <br>
 
