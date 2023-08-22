@@ -111,9 +111,9 @@
 <details align="center" font-size=200>
  <summary align="center"><h2 align="center"><samp align="center">&#9776; Read More</samp></h2></summary>
   <!-- Activity Widget -->
-  <p align="center">
+<!--   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fumagallilaura&show_icons=true&theme=radical" alt="Laura Fumagalli's Github status"/>
-  </p>
+  </p> -->
   <!-- Top Languages Widget -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumagallilaura&layout=compact&theme=radical" alt="top languages" />
