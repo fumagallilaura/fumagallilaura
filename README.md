@@ -4,6 +4,7 @@
 
 <!-- Profile Views Counter -->
 <!-- ![Profile views](https://gpvc.arturio.dev/fumagallilaura?v=3) -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fumagallilaura&color=fe428e" alt="Profile views"/> </p>
 
 <!-- Intro  -->
 <h2 align="center">
