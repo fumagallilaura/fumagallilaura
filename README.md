@@ -37,6 +37,21 @@
  </samp>
 </p>
 
+  <!-- Top Languages Widget -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumagallilaura&layout=compact&theme=radical" alt="top languages" />
+  </p>
+
+<br>
+
+<!-- Details Section-->
+<details align="center" font-size=200>
+ <summary align="center"><h2 align="center"><samp align="center">&#9776; Read More</samp></h2></summary>
+  <!-- Activity Widget -->
+<!--   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fumagallilaura&show_icons=true&theme=radical" alt="Laura Fumagalli's Github status"/>
+  </p> -->
+
 <!-- Programming Languages and Tools -->
 <h4 align="center">Languages and Tools:</h4>
 
@@ -100,25 +115,16 @@
  <a href="https://learn.microsoft.com/pt-br/teamblog/introducing-net-core-docs" target="_blank"> <img src="https://www.nantes-amenagement.fr/wp-content/uploads/2018/05/LOGO-DOTNET-v2018.png" alt="dotnet" width="40" height="40"/> </a>
  <!-- Azure DevOps -->
  <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank"> <img src="https://bayccs.com/wp-content/uploads/2020/04/azure-1-1024x817.png" alt="AzureDevps" width="40" height="40"/> </a>
+  <!-- Golang  -->
+ <a href="https://go.dev/" target="_blank"> <img src="https://andrewhummel.dev/static/be6152a64f71b69c401e41fb726b7edd/82c11/golang.png" alt="golang" width="40" height="40"/> </a>
+  <!-- Kafka  -->
+ <a href="https://kafka.apache.org/" target="_blank"> <img src="https://psych.fullerton.edu/fls/images/SEM.png" alt="apache kafka" width="40" height="40"/> </a>
  </p>
  
  <p align="center">
  
  </p>
-
-<br>
-
-<!-- Details Section-->
-<details align="center" font-size=200>
- <summary align="center"><h2 align="center"><samp align="center">&#9776; Read More</samp></h2></summary>
-  <!-- Activity Widget -->
-<!--   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fumagallilaura&show_icons=true&theme=radical" alt="Laura Fumagalli's Github status"/>
-  </p> -->
-  <!-- Top Languages Widget -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumagallilaura&layout=compact&theme=radical" alt="top languages" />
-  </p>
+ 
  <!-- Codewars -->
   <p align="center"> 
     <a href="https://www.codewars.com/users/fumagallilaura" target="_blank">
