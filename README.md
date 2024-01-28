@@ -141,7 +141,7 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:laura.fumagalli@unesp.br" target="_blank"><img alt="Gmail"
+        <a href="mailto:lahfumagalli@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
