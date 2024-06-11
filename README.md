@@ -26,13 +26,13 @@
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 />
 </h3>
 
-
 <!-- Organisation  -->
 <p align="center">
  <samp>
     「 From São Paulo, Brazil 」
    <br>
 <!--     「 FullStack Developer 」 -->
+    🏦 Itaú Unibanco
    <br>
    <br>
  </samp>
