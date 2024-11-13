@@ -132,6 +132,9 @@
     <a href="https://www.codewars.com/users/fumagallilaura" target="_blank">
       <img width="165" src="https://www.codewars.com/users/fumagallilaura/badges/micro" />
     </a>
+  </p>
+ 
+ <p align="center"> 
    <br>
    <br>
    <!-- A Curiosity About Me -->
