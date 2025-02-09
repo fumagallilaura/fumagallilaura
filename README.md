@@ -26,7 +26,14 @@
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 />
 </h3>
 
-<!-- Organisation  -->
+<!-- LinkedIn button -->
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=fumagallidv" target="_blank"><img alt="Linkedin"
+          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+</p>
+
+<!-- Organization  -->
 <p align="center">
  <samp>
     「 From São Paulo, Brazil 」
