@@ -39,7 +39,7 @@
     「 From São Paulo, Brazil 」
    <br>
 <!--     「 FullStack Developer 」 -->
-    🏦 Itaú Unibanco
+    🏦 Nubank
    <br>
    <br>
  </samp>
