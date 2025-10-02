@@ -45,10 +45,10 @@
  </samp>
 </p>
 
-  <!-- Top Languages Widget 
+  <!-- Top Languages Widget -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumagallilaura&layout=compact&theme=dracula" alt="top languages" />
-  </p> -->
+  </p> 
 
 <br>
 
