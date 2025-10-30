@@ -5,7 +5,7 @@
 
 <!-- Profile Views Counter -->
 <!-- ![Profile views](https://gpvc.arturio.dev/fumagallilaura?v=3) -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fumagallilaura&color=fe428e" alt="Profile views"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=fumagallilaura&color=800080" alt="Profile views"/> </p>
 
 <!-- Intro  -->
 <h2 align="center">
@@ -16,7 +16,7 @@
 
 <!-- <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif /> -->
 
-<a href="https://fumagallilaura-github-el05jger0-fumagallilauralfr.vercel.app/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=180&section=header&text=%20Full%20Stack%20Developer%20&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://fumagallilaura-github-el05jger0-fumagallilauralfr.vercel.app/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=%20Full%20Stack%20Developer%20&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35"/></a>
 
 <h3 align="center">
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 /> 
